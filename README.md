@@ -4,7 +4,7 @@ This back end of an e-commerce application website that contains a sample databa
 
 ## Demo Video
 
-    https://drive.google.com/file/d/1NoCPLki2Fj3G4tjwA85BFVy7H9qh620N/view?usp=sharing
+    https://drive.google.com/drive/folders/1BWsq4oG5R5ndWkpu8GwT-qaxBje7kA4M?usp=sharing
 
  ## GitHub Repository
 
